@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+  margin-top: 10px;
+  /* background-color: blue; */
+}
+
+th {
+  width: 20%;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: auto;
+  background-color: red;
+}
+
+img {
+  text-align: center;
+  background-color: aquamarine;
+  width: 100%;
+  margin-top: 100px;
+  margin-right: 100px;
+}
